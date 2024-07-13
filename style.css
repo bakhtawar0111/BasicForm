@@ -36,8 +36,11 @@ form {
 }
 .form_control input,
 select {
+  border: 1px solid gray;
+  border-radius: 5px;
   height: 30px;
   width: 250px;
+  box-shadow: 5px 5px 5px grey;
 }
 .apply {
   text-align: center;
