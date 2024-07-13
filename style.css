@@ -71,4 +71,8 @@ button:hover {
   button {
     width: 80vw;
   }
+  .form_control input,
+  select {
+    width: 100%;
+  }
 }
